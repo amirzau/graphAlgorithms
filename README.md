@@ -16,7 +16,7 @@ a collection of graph algorithms - visualised in pdf
 - instance.run_algo()
 - a pdf file will be generated into the projects folder.
 
-
+**examples are in main.py**
 
 ****note****
 BFS will work only on regular graphs.
